@@ -5,6 +5,9 @@
 Chrome Extension for downloading book file from Moco Digital Library
 
 ## Note for the developer
+
+### Teh ekstension is real, you can find post about it in social media. If you are Moco developer, just contact me for extension source code
+
 They present themselves as the No. 1 Digital Library Developer in Indonesia.
 They claim to work with 250 government and private partners across provinces and cities, collaborate with 600+ publishers, and even position themselves as a partner of Kementerian Pendidikan Tinggi, Sains, dan Teknologi Republik Indonesia.
 They proudly promote their “#10YearsExperience.”
